@@ -19,9 +19,7 @@ Which professors from your past would you most like to emulate in the classroom?
 I enjoyed hearing Dr. Jandik discuss his teaching style and parts of his teaching philosophy.  What stuck out the most to me was remembering the importance of creating an environment conducive to the transfer of knowledge.  That starts with clear expectations from day one.  My wife is an elementary teacher, and she talks about the importance of classroom management, i.e. laying out expectations at the beginning and regularly through the school year, and sticking to those expectations.  The majority of new teachers who struggle have poor classroom management skills and the students start to run the class; not very conducive to transferring knowledge.  While college students are different than second graders (although maybe the biggest difference is sometimes just their size) a lot of this still applies.  Showing the students you care is also paramount.  Building those relationships or that rapport with students will not only help with evaluations, but I believe (potentially contrary to Dr. Jandik) it will help with the students' willingness to engage in class.  While an adjunct at MSSU, my class size was 40, versus class sizes of 68 to 100 here at U of A.  I was able to connect better with my students in that smaller class size, and student outcomes seemed better (although no real data to completely back that up since they were different courses), and my evaluations were better as well.  I believe the better rapport with those students was reflected in their effort in class.  While class size is outside of my control, I can be better at being intentional about this, and discuss with other professors their strategies for larger class sizes.
 
 
-
 An interesting thing Dr. Jandik brought up that I need to think more about is his view that it is the students' responsibility to **persuade** the instructor they deserve a passing grade, and course progress is the **student's** responsibility.  I think this makes sense from the standpoint that receiving an A is not the default, with the grade then being lowered if expectations are not met.  However, for some reason, the phrasing seems odd and maybe a little adversarial to me, yet not necessarily wrong.  I need to think more about this, because I think my baseline is I don't want to fail a student, but their lack of effort in the class has earned them a failing grade.  Maybe this is by the structure of the class.  My classes I have taught had very explicit grading schemes, so if the points were garnered that rose to a certain letter grade, that is what they earned.  This may be different for more of a seminar-type class, in which case Dr. Jandik's statement makes more sense to me.  Again, I need to think more deeply about this philosophy (or maybe it is just the semantics of the phrase).
-
 
 
 The title of Dr. Jandik's presentation was fitting, and similar to what Cory has said (in seminar, and not necessarily relating to teaching but I think it applies).  You need to know your strengths and leverage them, but also know your weaknesses and compensate for them.  I think my biggest weakness for this setting is being a people pleaser by nature, so my bent is to be friendlier, seem likable, etc.; all the things Dr. Jandik seems to despise.  While I will not be at his extreme level due to my nature, I would have better class outcomes, I think, if I were more strict and placed holding those standards in class above conflict avoidance and being liked.  Another weakness of mine that I have had to compensate for is my introverted-ness.  I have to prepare for class almost as a performance, and view class time as such.  Discussion's with students before or after class and during office hours are much more natural and easier for me in general, so I have to have the mindset that lectures are more of a performance, which came to mind when Dr. Jandik mentioned the entertainment factor.
@@ -33,14 +31,19 @@ The title of Dr. Jandik's presentation was fitting, and similar to what Cory has
 What will make the classroom environment and class time the best it can be for students to learn?  Ensure the class policies are realistic and you will be able to uphold the expectation of them being followed.  For example, even if it may be "best" because other successful professors do it, if you won't be able to kick someone out of class for being on their phone, don't put that as a policy.  Also, think about ways to connect more to the students on a regular basis.  It may be more difficult with large class sizes, but be intentional about creating that rapport and learning environment.
 
 
+
 ## Week Three Reflection, Dr. Christian Hofer 1/31/2026
+
 
 
 My main takeaway from Dr. Hofer's presentation was something I have been reflecting on from my two semesters I have taught.  As referenced in last week's summary, I have taught two semesters of introductory accounting.  Now I want to shift the focus from class sizes and connecting with students to course development and structure.  When I was teaching the only sections of Principles of Accounting as an adjunct instructor, I created my own materials.  They were based on and (mostly) followed the order of the textbook, but I created handouts that were essentially an outline that had blanks that we would work through together, using the whiteboard for additional illustrations at times.  I had an accounting professor in my masters program that did that.  It was my favorite accounting class I had, not solely for that reason as the professor was great, but it was definitely part of the reason.  I wanted to emulate that aspect of his teaching, and my students seemed to respond well and enjoyed that method of presenting the material.  Last spring I was teaching four of 14 sections of Survey of Accounting, which is a coordinated class.  Reba (the coordinating instructor) is a great teacher, and has put much thought and preparation into the course materials.  Using her PowerPoints that I admittedly made few changes to, however, resulted in me not presenting the material in the best way I could.  For Reba, the PowerPoints work great and her students enjoy her class and how she presents the material, but they did not work as well for me.
 
+
 Dr. Hofer's first point of his OFPSER acronym, "owning it," connected this for me.  If I had put in the effort to change the content's delivery method, even slightly, I may have done a better job in the front of the classroom.  Most of the other points he mentioned were things I have been told or have noticed.  The importance of pacing and repeating yourself were common pieces of advice I have received from many mentors, but I think being comfortable with those parts come with experience.  Even being aware of these when I started, until I went through what I thought was going to be 30 minutes of material in about 12 minutes, or had to come up on the spot with three different ways to talk about a concept, they weren't able to sink in.
 
+
 An interesting thing I had not thought of was the importance of "framing it."  As soon as Dr. Hofer left the slide with the diagram of the OFPSER acronym, I noticed the progress indicator in the top right corner.  I wonder if during my first semester teaching, having the handout offered students a tangible way to know the progress through the class, essentially framing it without a progress monitor.  I know an important pedagogical component for planning a lesson is the learning objectives, and it makes a lot of sense to not only convey those objectives to the students at the beginning of class, but to let them know the progress through those objectives as we move through the class time.
+
 
 One consistent theme I have enjoyed so far through the semester is the acknowledgement that research is the priority in the PhD program, and (somewhat depending on job placement) is the main output the profession requires, but that the real impact we will have is on the students.  I was reminded of that when I ran into a former student in the hallway last week, and he told me he had switched his major to accounting; that was a pretty cool feeling!
 
@@ -49,3 +52,31 @@ One consistent theme I have enjoyed so far through the semester is the acknowled
 ### To future me:
 
 The time and preparation to make sure the way the content is delivered algins with how you are best able to deliver the content is well worth it.  Although we are the "host" and entertaining, don't try to be someone else, or to be what you **think** you should be, but allow your personality to come through in an honest way.  Consciously plan different ways to repeat concepts (especially those particularly tough ones) and remember to use plenty of visuals and tie-backs to the real world.
+
+
+
+## Week 4 Reflection, Dr. Adam Stoverink and Dr. Matt Waller 2/6/2026
+
+
+
+I enjoyed learning more about the class Adam and Matt taught last semester, as I followed it along on LinkedIn during the semester and thought it was a really neat opportunity for the MBA students.  Listening to the discussion from some other faculty on how they have addressed AI issues and utilized AI in the classroom was insightful as well.  I tend to flip black and forth on my feeling towards AI, from worrying about what it means for things in the (not so distant) future, but also the awesome opportunities it brings.  Adam's perspective on what the value added from faculty and universities when education (access to knowledge) is commoditized is that the human connection and experience will be the differentiator.  How can we utilize AI to help us do that part better?
+
+My biggest takeaway from this week was the "food for thought" presented.  AI is changing how we operate, and the rate of that change seems to be ever increasing.  It was not lost on me, though, that this presentation on AI use in the classroom was in a room full of people who seemed to be genuinely enjoying the fellowship and time spent together - something I don't think AI can ever change.
+
+
+### To future me:
+
+Don't live in fear of the change, but look for opportunities on how to best utilize and leverage it.
+
+
+
+## Week 5 Reflection, Mr. Brian Pullen, 2/13/2026
+
+
+
+Mr. Pullen had some great insight and gave a good example of conducting a classroom.  The way he interacted with students at the beginning of class was the first thing that stood out to me.  He was trying to make it around to every student to introduce himself and make them feel welcome and start that engagement early.  I noticed last spring that (especially in my class in the large lecture hall) many students would keep their headphones in/on when getting to class, or doing something on their phone or laptop.  There was very little interaction among students before class started, and I think sometimes that would set the tone for how the class went.  His comment that the students (especially freshman or sophomores) will be more intimidated by you than you are to be in front of them was also a good reminder for teaching in our early careers.  Brian also spoke to the fact that change is inevitable, and the importance of looking at that change as an opportunity, building on last week's presentation by Adam and Matt.
+
+
+### To future me:
+
+Remember to be a person.  Make connections with the students and be relatable, but don't blur the lines of professionalism and friendship.  Think about how this compares and contrasts with Dr. Jandik's message.  I think both he and Mr. Pullen are getting to the same end goal, but letting their personalities and beliefs of how to conduct the classroom lead the route to get there.  Also, a class of mostly freshman versus mostly master's students will have vastly different dynamics, so remember the audience and what their needs are when preparing.  
