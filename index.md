@@ -55,7 +55,7 @@ The time and preparation to make sure the way the content is delivered algins wi
 
 
 
-## Week 4 Reflection, Dr. Adam Stoverink and Dr. Matt Waller 2/6/2026
+## Week Four Reflection, Dr. Adam Stoverink and Dr. Matt Waller 2/6/2026
 
 
 
@@ -70,7 +70,7 @@ Don't live in fear of the change, but look for opportunities on how to best util
 
 
 
-## Week 5 Reflection, Mr. Brian Pullen, 2/13/2026
+## Week Five Reflection, Mr. Brian Pullen, 2/13/2026
 
 
 
@@ -83,11 +83,11 @@ Remember to be a person.  Make connections with the students and be relatable, b
 
 
 
-## Week 6 (no class)
+## Week Six (no class)
 
 
 
-## Week 7 Reflection, PhD Senior Panel, 2/27/2026
+## Week Seven Reflection, PhD Senior Panel, 2/27/2026
 
 
 
@@ -100,7 +100,7 @@ Have realistic goals.  It will be different next time I teach with having to bal
 
 
 
-## Week 8 Reflection, Craig Geiger, 3/6/2026
+## Week Eight Reflection, Craig Geiger, 3/6/2026
 
 
 
@@ -113,7 +113,7 @@ My personality is more on the reserved side, but being in front of a classroom r
 
 
 
-## Week 9 Reflection, Dr. Zach Steelman, 3/13/2026
+## Week Nine Reflection, Dr. Zach Steelman, 3/13/2026
 
 
 
