@@ -80,3 +80,46 @@ Mr. Pullen had some great insight and gave a good example of conducting a classr
 ### To future me:
 
 Remember to be a person.  Make connections with the students and be relatable, but don't blur the lines of professionalism and friendship.  Think about how this compares and contrasts with Dr. Jandik's message.  I think both he and Mr. Pullen are getting to the same end goal, but letting their personalities and beliefs of how to conduct the classroom lead the route to get there.  Also, a class of mostly freshman versus mostly master's students will have vastly different dynamics, so remember the audience and what their needs are when preparing.  
+
+
+
+## Week 6 (no class)
+
+
+
+## Week 7 Reflection, PhD Senior Panel, 2/27/2026
+
+
+
+Danielle (Economics), Rafaela (Marketing), and Finn (Supply Chain) answered questions about teaching during (and anything else about) the program.  I think the biggest takeaway was remembering that you can only control so much, and don't take course evaluations or feedback personally.  Real, contstructive feedback is great, but there will always be some amount of unhelpful or even mean feedback and course evaluations.  Don't let your identity be tied up in those.  The regular feedback received while teaching, however, is nice compared to research where it come quite infrequently.  Remember that others are here to help, you you don't have to (and likely won't be) great at first.  It is a learning process for us as well, and if we focus on improvement, that is where we will see growth.
+
+
+### To future me:
+
+Have realistic goals.  It will be different next time I teach with having to balance my own coursework and research, so I need to give myself grace.  It will be a ket to make a plan and stick with it, but to take it one day at a time.
+
+
+
+## Week 8 Reflection, Craig Geiger, 3/6/2026
+
+
+
+I missed class due to our Arkansas Accounting Research Conference, but talked with a classmate about the class and got some notes.  What stood out to her was the energy he brought, and hands-on, practical tools provided.  
+
+
+### To future me:
+
+My personality is more on the reserved side, but being in front of a classroom requires a bit of an act.  Pushing myself to bring some extra energy and entertainment that may not be my natural disposition will help with keeping the attention of students, but I still need to be me.
+
+
+
+## Week 9 Reflection, Dr. Zach Steelman, 3/13/2026
+
+
+
+This was an interesting Lunch and Learn where I learned about the AI offering by the college.  The WaltonChat seems like a great resource that I will have to check out, and it was neat hearing how he is implementing these in his courses and how students are using them.  He also brought up some cool approaches to research problems or questions that I will have to think about what implementation would look like for me.  The discussion on focusing on the end-goal or final object you are needing to create, then iterating with AI to do that was helpful as well.
+
+
+### To future me:
+
+Don't be afraid of change (a recurring theme in this seminar).  These AI tool are constantly changing, and while they are bringing new challenges, they are also creating wonderful opportunities if used well.
