@@ -123,3 +123,19 @@ This was an interesting Lunch and Learn where I learned about the AI offering by
 ### To future me:
 
 Don't be afraid of change (a recurring theme in this seminar).  These AI tool are constantly changing, and while they are bringing new challenges, they are also creating wonderful opportunities if used well.
+
+
+
+## Week Ten - No Reflection (Spring Break)
+
+
+
+## Week Eleven Reflection, Dr. Kevin Chase, 4/3/2026
+
+
+
+There were many great ideas this week around using AI to aide in teaching, mostly with preparation and developing the course, which I found quite helpful.  I have lots of notes with good ideas from Kevin and other faculty present in the workshop.  The main takeaway for me was utilizing AI for lesson planning and assignment creation.  The key is to determine what areas AI can help optimize and will increase efficiency and productivity the most.
+
+### To future me:
+
+Refer to the document in Notability for this week with notes on how to utilize AI.  Outsource the things AI is good at, and use your energy to evaluate its output and refine.
