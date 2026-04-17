@@ -136,6 +136,20 @@ Don't be afraid of change (a recurring theme in this seminar).  These AI tool ar
 
 There were many great ideas this week around using AI to aide in teaching, mostly with preparation and developing the course, which I found quite helpful.  I have lots of notes with good ideas from Kevin and other faculty present in the workshop.  The main takeaway for me was utilizing AI for lesson planning and assignment creation.  The key is to determine what areas AI can help optimize and will increase efficiency and productivity the most.
 
+
 ### To future me:
 
 Refer to the document in Notability for this week with notes on how to utilize AI.  Outsource the things AI is good at, and use your energy to evaluate its output and refine.
+
+
+
+## Week Twelve Reflection - Dr. Molly Rapert, 4/10/2026
+
+
+
+I unfortunately had to miss Dr. Rapert's presentation due to being at a conference, but I spoke with her and received her handout and presentation materials.  I have enjoyed hearing from her at the Lunch and Learn and Wally Cordes workshops.  I think the best part of hearing from her and seeing her around is how obvious it is how much she cares for her students and the university.  The points in the handout will be useful to refer back to while teaching, as gathering feedback is the best way to learn; especially from students, as they are the reason for teaching.
+
+
+### To future me:
+
+Refer back to the handout and presentation for ideas for student feedback throughout the semester when teaching, and don't be afraid to try some new ways to elicit that feedback before teacher evaluations, when it is too late to change anything for that group of students.
