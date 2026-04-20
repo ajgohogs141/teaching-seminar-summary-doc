@@ -153,3 +153,16 @@ I unfortunately had to miss Dr. Rapert's presentation due to being at a conferen
 ### To future me:
 
 Refer back to the handout and presentation for ideas for student feedback throughout the semester when teaching, and don't be afraid to try some new ways to elicit that feedback before teacher evaluations, when it is too late to change anything for that group of students.
+
+
+
+## Week Thirteen Reflection - Dr. Chris Bryson, 4/17/2026
+
+
+
+The main thing I took away from this class was the discussion around what academic integrity looks like moving forward in the age of AI.  The role of the individual professor on mitigating academic integrity issues in their classroom seems like a good thing to remember, in that showing why the students should care to actually learn, and not just complete an assignment will be one of the biggest deterrents.  Relating the material to real-world applications, making it engaging (not just busywork) and showing that you care about the students and what they are going through are all ways to accomplish this.  It is also encouraging to see how much support we have at the University of Arkansas, not just the faculty, but the PhD students as well in our unique role as both students and instructors.  It seems this is not the case everywhere, so I am grateful for that, as well as most other things I have experienced in my time here.
+
+
+### To future me:
+
+Be clear with expectations regarding academic integrity issues, and mention them continually through the course (specific assignments, exams, etc.) and be sure to address any issues that may arise.  I did not have a problem with that regarding academic integrity issues while teaching, but with other expectations, I tended to be more worried about perceptions and avoiding conflict than actually addressing the issues as I noticed them.  The same thing can happen with academic honesty issues, so definitely a priority with them, but this generalizes to other expectations in the classroom for me.
