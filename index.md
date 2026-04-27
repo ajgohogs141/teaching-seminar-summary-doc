@@ -166,3 +166,18 @@ The main thing I took away from this class was the discussion around what academ
 ### To future me:
 
 Be clear with expectations regarding academic integrity issues, and mention them continually through the course (specific assignments, exams, etc.) and be sure to address any issues that may arise.  I did not have a problem with that regarding academic integrity issues while teaching, but with other expectations, I tended to be more worried about perceptions and avoiding conflict than actually addressing the issues as I noticed them.  The same thing can happen with academic honesty issues, so definitely a priority with them, but this generalizes to other expectations in the classroom for me.
+
+
+
+## Week Fourteen Reflection - Dr. Jeff Murray, 4/24/2026
+
+
+
+I enjoyed Dr. Murray's presentation on storytelling and how framing our thinking about our lectures as stories (and the specific elements of stories) will help to keep our students engaged and have a better chance at retaining their attention.  I think I sometimes default to the fact that what I have taught are principles of accounting courses, and delivering that knowledge in a "non-lecture" format is difficult.  While that very well may be true, I need to make sure to put in the effort to think about how I am delivering the content, and the most effective way to gain and keep attention so that transfer of knowledge happens, and the students have a framework to think about these accounting concepts and complex problems.
+
+Something I picked up on (but that wasn't the focus of his presentation) was that Dr. Murray's slides had repetition built in, specifically the "high-level" slides that were simple and had lots of white space.  For example, he began one section with a slide that was simply the list of elements of a story.  Then he gave detail slides on each element as he discussed them, and finished the section by bringing the overview slide back up.  I think repetition is important for reinforcing key elements in a lecture.  His delivery seemed effortless, but I could tell things like that were intentional (it's as if good teaching habits are second nature after doing it for 40 years ...).
+
+
+### To future me:
+
+For thinking about specific elements of a story and mapping parts of a lecture to them, refer to the Notability document this week.  Creating a story to gain and keep attention plays hand-in-hand with making the content relatable and salient to the students, I think.  Refer also to the presentation zen website/book for tips and ideas on creating effective presentations, that look less like an accounting paper workshop slide deck, and something more engaging for 20 year olds questioning why they need an accounting class.  (As I have discussed, I think upper-level courses may be easier to structure in these ways, but I could be wrong.  Regardless, developing these skills for teaching introductory accounting courses will no doubt transfer into those classes to help me be a more effective educator).
